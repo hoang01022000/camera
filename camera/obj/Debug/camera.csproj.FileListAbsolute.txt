@@ -1,0 +1,14 @@
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\bin\Debug\camera.exe.config
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\bin\Debug\camera.exe
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\bin\Debug\camera.pdb
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\bin\Debug\bgapi2_genicam_dotnet.dll
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\bin\Debug\bgapi2_genicam_dotnet.xml
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.csproj.AssemblyReference.cache
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.csproj.SuggestedBindingRedirects.cache
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.Properties.Resources.resources
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.csproj.GenerateResource.cache
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.csproj.CoreCompileInputs.cache
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.csproj.CopyComplete
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.exe
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.pdb
+C:\Users\PCM\Desktop\WindowsFormsApp2\camera\obj\Debug\camera.Form1.resources
